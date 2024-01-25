@@ -1,0 +1,30 @@
+.details {
+    background: url("./../../../public/Sabre-SV-Jacket-Men-s-Arc-teryx.png")
+        no-repeat top center;
+    width: 100%;
+    height: 8300px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: contain;
+    background-size: 100%;
+
+}
+
+.size {.btn {
+    position: fixed;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    width: 100vw;
+    height: 100vh;
+}
+&__recommended{
+    z-index: 2;
+    position: absolute;
+    top: 60%;
+    right: 10%;
+    width: 19rem;
+    background-color: white; 
+}
+}

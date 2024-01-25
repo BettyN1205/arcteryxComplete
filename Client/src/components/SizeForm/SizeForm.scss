@@ -1,0 +1,26 @@
+form > button {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    height: 45px;
+    padding: 0px 1.5rem;
+    margin: 0px;
+    color: white;
+    text-decoration: none;
+    border-radius: 0px;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    font-size: 1.1rem;
+    line-height: 1rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    word-break: keep-all;
+    cursor: pointer;
+    background-color: black;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+ 
+}
